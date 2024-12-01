@@ -1,3 +1,5 @@
+package Card;
+
 public abstract class Card {
     private int power;
 

@@ -1,10 +1,12 @@
+import Map.Planet;
+
 public class Player {
     private int score;
     private boolean isEliminated;
-    //private Card[] cardOrder; // à revoir
+    //private Card.Card[] cardOrder; // à revoir
 
     /*
-    public Card[] setCardOrder() {
+    public Card.Card[] setCardOrder() {
         return null
     }
      */

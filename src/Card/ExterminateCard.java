@@ -1,3 +1,5 @@
+package Card;
+
 public class ExterminateCard extends Card {
 
     @Override
